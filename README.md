@@ -9,3 +9,5 @@ A List of Data Sets for Research on Recommender Systems
   * Music: InCar Music data
   * Travel: STS data, TripAdvisor data
   * Restaurant: Japan and Tijuana restaurant data
+ 
+  * I do not own the contents in this repo and has been forked from Prof. Yong Zheng for educational and research purposes only. 
